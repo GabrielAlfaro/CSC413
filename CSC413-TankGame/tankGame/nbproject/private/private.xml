@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/PowerUp.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/PlayerPlane.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/TankGameEvents.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/GameObject.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/Player.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/Bullet.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/TankGameWorld.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/PlayerControl.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/CollisionDetector.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/Collidable.java</file>
+            <file>file:/C:/Users/Gabriel/Documents/NetBeansProjects/tankGame/src/tankgame/BufferedImageLoader.java</file>
+        </group>
+    </open-files>
+</project-private>
